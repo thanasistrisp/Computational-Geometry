@@ -1,0 +1,30 @@
+n = 100
+Graham Scan: 0.0
+Gift Wrapping: 0.01
+Divide and Conquer: 0.0
+Quick Hull: 0.0
+--------------------
+n = 1000
+Graham Scan: 0.02
+Gift Wrapping: 0.18
+Divide and Conquer: 0.04
+Quick Hull: 0.03
+--------------------
+n = 10000
+Graham Scan: 0.21
+Gift Wrapping: 2.49
+Divide and Conquer: 0.36
+Quick Hull: 0.32
+--------------------
+n = 100000
+Graham Scan: 2.06
+Gift Wrapping: 32.64
+Divide and Conquer: 5.0
+Quick Hull: 3.03
+--------------------
+n = 1000000
+Graham Scan: 22.22
+Gift Wrapping: 369.86
+Divide and Conquer: 53.15
+Quick Hull: 40.51
+--------------------
